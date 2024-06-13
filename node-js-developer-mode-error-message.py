@@ -18,7 +18,7 @@ def check_express_dev_mode(target):
 
         "Connection": "close",
 
-        "s1d6p01nt7@bugcrowdninja.com": "true"  # Custom header for identifying traffic
+        "your-personal-identifier": "true"  # Custom header for identifying traffic
 
     }
 
